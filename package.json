@@ -1,0 +1,12 @@
+{
+  "name": "esmodules-node-pratice",
+  "version": "1.0.0",
+  "description": "\"Pacote de código do aprendizado de ESModules no NodeJS\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Portela",
+  "license": "ISC",
+  "type": "module"
+}
